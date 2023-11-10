@@ -16,13 +16,13 @@ produtos = [
         {
         "id": 1,    
         "nome": "Iphone14",
-        "descricao": "Descrição do produto 1",
+        "descricao": "Descrição do produto 2",
         "preco": 5000.00
     },
         {
         "id": 2,    
         "nome": "PS5",
-        "descricao": "Descrição do produto 2",
+        "descricao": "Descrição do produto 3",
         "preco": 12000.00
     },
             {
